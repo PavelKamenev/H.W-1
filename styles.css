@@ -1,0 +1,49 @@
+html, body {
+    font-size: 16px;
+    background: rgb(13,124,100);
+background: linear-gradient(73deg, rgba(13,124,100,1) 8%, rgba(21,33,106,1) 80%);
+background-size: 100% 100%;
+}
+body { 
+    
+    width: 80%;
+    min-width: 48rem;
+    max-width: 80rem;
+    margin: 1rem auto;
+    background: rgb(255, 255, 255);
+   
+    }
+    h2 {
+        width: 97%;
+       
+        margin: 1rem;
+        padding: 1rem 0rem;
+        border-bottom: 1px solid #c6c6c6;
+
+    }
+    p {
+        width: 94.3%;
+        
+        margin-left: 1rem;
+        padding: 1rem;
+        border: 1px solid #c6c6c6;
+        font-size: 0.95rem;
+    }
+.container {
+    width: 80%;
+    margin: 0rem auto;
+padding: 0rem 0rem 1rem 0rem;
+background: white;
+
+
+}
+table {
+border-collapse: collapse;
+text-align: center;
+}
+table th, table td {
+padding: .2rem 4.5rem;
+border: 1px solid #c6c6c6;
+
+
+}
